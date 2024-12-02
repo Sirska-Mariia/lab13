@@ -1,16 +1,10 @@
 package ucu.edu.ua.task3;
-
 import okhttp3.*;
-
 import org.json.JSONArray;
 import org.json.JSONObject;
-
 import java.io.IOException;
-
 public class OpenAiExample {
-  // private static final String API_URL = "https://api.openai.com/v1/chat/completions";
-  // private static final String API_KEY =  System.getenv("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");
-
+  
   // public static void main(String[] args) {
   //     JSONArray messages = new JSONArray();
 
