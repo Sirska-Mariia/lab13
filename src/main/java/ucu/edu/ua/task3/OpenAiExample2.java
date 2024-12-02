@@ -3,7 +3,7 @@ import okhttp3.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import java.io.IOException;
-public class OpenAiExample {
+public class OpenAiExample2 {
   
   // public static void main(String[] args) {
   //     JSONArray messages = new JSONArray();
