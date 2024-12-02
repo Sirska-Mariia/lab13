@@ -1,4 +1,4 @@
-package ucu.edu.ua.twitter;
+package ucu.edu.ua.myuser.twitter;
 
 import java.time.LocalDate;
 

@@ -6,8 +6,8 @@ import ucu.edu.ua.task1.meta.MyFacebookUser;
 import ucu.edu.ua.task1.myuser.User;
 import ucu.edu.ua.task1.meta.FacebookUser;
 import ucu.edu.ua.task1.twitter.XUser;
-import ucu.edu.ua.twitter.XCountry;
 import ucu.edu.ua.task1.twitter.MyXUser;
+import ucu.edu.ua.task1.twitter.XCountry;
 
 public class Main {
     public static void main(String[] args) {
